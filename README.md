@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paulo 🤖</h1>
 <h3 align="center">A passionate python developer from Bethesda, Maryland</h3>
 <p align="center">
-I’m currently working on a python filing system, and a django back-end for a website I designed.
+I’m currently studying the book Python for DevOps - Learn ruthlessly effective automation.
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
