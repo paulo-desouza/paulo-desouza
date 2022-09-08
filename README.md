@@ -14,3 +14,4 @@ I’m currently studying the book Python for DevOps - Learn ruthlessly effective
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 <p>Email me at: campdsouza@gmail.com</p>
+<a href="https://drive.google.com/file/d/1FBPZlu11IOTSdhb4a652RC8hBoKQJ4wb/view" target="_blank"> View my resume here! </a>
