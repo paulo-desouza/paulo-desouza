@@ -18,5 +18,7 @@ I’m currently studying for my CompTIA A+ certification.
 <p>Email me at: campdsouza@gmail.com</p>
 
 <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
-<a href="https://drive.google.com/file/d/1FBPZlu11IOTSdhb4a652RC8hBoKQJ4wb/view" target="_blank"> View my resume here. </a>
+<a href="https://drive.google.com/file/d/1FBPZlu11IOTSdhb4a652RC8hBoKQJ4wb/view" target="_blank"> View my resume here. </a> 
+  
+<a href="https://paulodesouza.dev" target="_blank"> Click here for my portfolio. </a>
 </div>
