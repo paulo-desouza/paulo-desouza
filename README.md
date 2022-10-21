@@ -12,6 +12,8 @@ I’m currently studying for my CompTIA A+ certification.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" alt="ansible" width="40" height="40"/> </a> 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.terraform.io/img/docs/tfe_logo.png" alt="Terraform" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" alt="Selenium" width="40" height="40"/> </a> 
+
 
 </p>
 
