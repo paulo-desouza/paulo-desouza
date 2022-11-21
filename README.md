@@ -2,7 +2,7 @@
 <h1>Hi, I'm Paulo 🤖</h1>
 <h3>Passionate techie from Bethesda, Maryland</h3>
 
- <a href="https://drive.google.com/file/d/13H-ES48tZpCmAoY_Eq-pAp0dzqcFErkw/view?usp=sharing" target="_blank">CompTIA A+ Certified</a>.
+ <a href="https://drive.google.com/file/d/1GcqolHN6rSE4mVOT2-067E4NqkMoRHg-/view?usp=sharing" target="_blank">CompTIA A+ Certified</a>.
 
 <h3>Toolkit:</h3>
 <p> 
@@ -41,7 +41,6 @@
 <p>Email me at: campdsouza@gmail.com</p>
 
 <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
-<a href="https://drive.google.com/file/d/1FBPZlu11IOTSdhb4a652RC8hBoKQJ4wb/view" target="_blank"> View my resume here. </a> 
-  
-<a href="https://paulodesouza.dev" target="_blank"> Click here for my portfolio. </a>
+<a href="https://www.linkedin.com/in/paulo-de-souza-9966a5246/" target="_blank"> LinkedIn Profile </a> <br>
+<a href="https://paulodesouza.dev" target="_blank"> Portfolio </a>
 </div>
