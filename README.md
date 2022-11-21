@@ -2,7 +2,7 @@
 <h1>Hi, I'm Paulo 🤖</h1>
 <h3>Passionate techie from Bethesda, Maryland</h3>
 
- CompTIA A+ Certified.
+ <a href="https://drive.google.com/file/d/13H-ES48tZpCmAoY_Eq-pAp0dzqcFErkw/view?usp=sharing" target="_blank">CompTIA A+ Certified</a>.
 
 <h3>Toolkit:</h3>
 <p> 
