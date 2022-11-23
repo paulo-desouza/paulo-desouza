@@ -42,5 +42,5 @@
 
 <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
 <a href="https://www.linkedin.com/in/paulo-de-souza-9966a5246/" target="_blank"> LinkedIn Profile </a> <br>
-<a href="https://paulodesouza.dev" target="_blank"> Portfolio </a>
+<a href="https://drive.google.com/file/d/1WdgCPDIe3K1Z8O_54SLlQXOcVVbEI1HB/view" target="_blank"> Portfolio </a>
 </div>
