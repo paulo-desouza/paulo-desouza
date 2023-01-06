@@ -25,8 +25,8 @@
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img
                             src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" alt="ansible" width="40"
                                                                           height="40" /> </a>
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                            src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png" alt="Git" width="40"
+                    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+                            src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png" alt="Docker" width="40"
                             height="40" /> </a>
 
 </p>
