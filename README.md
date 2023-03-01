@@ -1,16 +1,16 @@
 <div align="center">
-<h1>Hi, I'm Paulo 🤖</h1>
-<h3>Guy from Bethesda</h3>
+<h1>name = "Paulo"</h1>
+<h3>Programming Person</h3>
+ 
+ <p> there is nothing I won't learn </p>
 
- <p>paulodesouza.tech@gmail.com</p>
-
-<a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
+<!-- <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br> -->
 <a href="https://www.linkedin.com/in/paulo-de-souza-9966a5246/" target="_blank"> LinkedIn Profile </a> 
  <br>
  <a href="https://drive.google.com/file/d/1GcqolHN6rSE4mVOT2-067E4NqkMoRHg-/view?usp=sharing" target="_blank">CompTIA A+ Certified</a>.
 
  Currently studying: <br>
- <strong> network security </strong> - <b> penetration testing </b> - <b> gnu/linux </b>
+ <b> python development </b> - <b> linux & bash scripting </b>
  
 
 <p> 
