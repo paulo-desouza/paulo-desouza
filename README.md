@@ -4,7 +4,7 @@
  
  <p> there is nothing I won't learn </p>
 
-<!-- <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br> -->
+<a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
 
 
  Currently studying: <br>
