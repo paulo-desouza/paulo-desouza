@@ -5,9 +5,7 @@
  <p> there is nothing I won't learn </p>
 
 <!-- <a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br> -->
-<a href="https://www.linkedin.com/in/paulo-de-souza-9966a5246/" target="_blank"> LinkedIn Profile </a> 
- <br>
- <a href="https://drive.google.com/file/d/1GcqolHN6rSE4mVOT2-067E4NqkMoRHg-/view?usp=sharing" target="_blank">CompTIA A+ Certified</a>.
+
 
  Currently studying: <br>
  <b> python development </b> - <b> linux & bash scripting </b>
