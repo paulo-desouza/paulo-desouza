@@ -20,7 +20,10 @@
                     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
                             src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png" alt="Docker" width="40"
                             height="40" /> </a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img
+                            src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JavaScript" width="40"
+                            height="40" /> </a>
+   
 </p>
 
 </div>
