@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Paulo Sergio de Souza</h1>
+<h1>Paulo Sérgio de Souza</h1>
  
  <p></p>
 
