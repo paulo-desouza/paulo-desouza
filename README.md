@@ -1,14 +1,8 @@
 <div align="center">
-<h1>name = "Paulo"</h1>
-<h3>Programming Person</h3>
+<h1>Paulo Sergio de Souza</h1>
  
- <p> there is nothing I won't learn </p>
+ <p></p>
 
-<a href="https://paulo-desouza.github.io" target="_blank"> Check out my blog! </a> <br>
-
-
- Currently studying: <br>
- <b> python development </b> - <b> linux & bash scripting </b>
  
 
 <p> 
