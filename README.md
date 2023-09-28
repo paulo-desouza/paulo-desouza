@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Paulo Sérgio de Souza</h1>
  
- <p></p>
+ <p><a href="https://www.linkedin.com/in/paulo-desouza/" target="_blank" rel="noreferrer">linkedin!</a></p>
 
  
 
