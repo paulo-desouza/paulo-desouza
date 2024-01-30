@@ -8,8 +8,6 @@
 </div>
  
  <div align="center">
-
-<p><a href="https://www.linkedin.com/in/paulo-desouza/" target="_blank" rel="noreferrer">Check out my Linkedin!</a></p>
 <p> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
