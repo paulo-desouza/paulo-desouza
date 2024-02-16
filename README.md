@@ -2,7 +2,7 @@
 <h1>Paulo de Souza</h1>
 </div>
 <div align="justify">
-<p>Software Developer with a focus on infrastructure. I specialize in back-end Django systems, network engineering, and linux environment administration. Passionate about learning, you can always find me studying and mastering new tools and technologies. </p>
+<p>Software Developer with a focus on infrastructure. I specialize in back-end Django systems, network engineering, and linux environment administration. Passionate about studying, you can always find me learning new tools and technologies. </p>
 
 
 </div>
