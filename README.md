@@ -2,7 +2,7 @@
 <h1>Paulo de Souza</h1>
 </div>
 <div align="justify">
-<p>Network engineer passionate about automation and DevOps principles. You can also catchme developing fullstack websites from time to time (Django is Awesome) </p>
+<p>Network engineer passionate about automation and DevOps principles. You can also catchme developing fullstack websites from time to time (Django is Awesome), and learning more about Linux Server Automation.  </p>
 
 
 </div>
